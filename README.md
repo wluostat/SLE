@@ -1,0 +1,1 @@
+The file named "supervised Laplacian embedding.R" provides R code for running the method. Files named "Model 1.R", etc., are used to generate the simulation results. The file named "digits analysis.R" generates results for applying SLE to the digits dataset, where the dataset can be downloaded at https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html.
